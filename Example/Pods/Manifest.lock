@@ -1,0 +1,16 @@
+PODS:
+  - PublicTest (0.1.0)
+
+DEPENDENCIES:
+  - PublicTest (from `../`)
+
+EXTERNAL SOURCES:
+  PublicTest:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  PublicTest: 878fa75d76153312ce0699d217deb5793d0e1dcf
+
+PODFILE CHECKSUM: d55c128fb0ea3b66844ff116cfc453c8c0fe7d23
+
+COCOAPODS: 1.2.1

@@ -1,0 +1,6 @@
+framework module PublicTest {
+  umbrella header "PublicTest-umbrella.h"
+
+  export *
+  module * { export * }
+}
