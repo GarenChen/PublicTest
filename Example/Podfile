@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'PublicTest_Example' do
+  pod 'PublicTest', :path => '../'
+
+  target 'PublicTest_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
