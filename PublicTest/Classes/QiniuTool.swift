@@ -8,7 +8,7 @@
 
 import UIKit
 
-class QiniuImageTool {
+open class QiniuImageTool {
 	
 	public static var uuidForfileName: String {
 		return NSUUID().uuidString.lowercased().replacingOccurrences(of: "-", with:"")

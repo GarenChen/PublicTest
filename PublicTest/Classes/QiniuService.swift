@@ -13,7 +13,7 @@ import Qiniu
 public typealias QiniuCompleteCallback = (QNResponseInfo?, String?) -> Swift.Void
 
 
-class QiniuService {
+open class QiniuService {
 	
 	private init() {}
     
