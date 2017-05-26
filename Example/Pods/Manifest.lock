@@ -15,7 +15,7 @@ PODS:
   - AFNetworking/UIKit (3.1.0):
     - AFNetworking/NSURLSession
   - HappyDNS (0.3.10)
-  - PublicTest (0.1.0):
+  - PublicTest (1.1.0):
     - AFNetworking (~> 3.0)
     - Qiniu (~> 7.1)
   - Qiniu (7.1.5):
@@ -32,7 +32,7 @@ EXTERNAL SOURCES:
 SPEC CHECKSUMS:
   AFNetworking: 5e0e199f73d8626b11e79750991f5d173d1f8b67
   HappyDNS: 06a9fed2796663fd87626dbf02552933265bf059
-  PublicTest: f982312cd9df82e2b53aa9f9f184de1c8ace7c64
+  PublicTest: 7177d5f7a91483211dffc5e269f45026aaa1ae07
   Qiniu: 77a3dba411556a383d72d17e842345a9d4c83252
 
 PODFILE CHECKSUM: d55c128fb0ea3b66844ff116cfc453c8c0fe7d23
